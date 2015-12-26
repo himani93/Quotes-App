@@ -1,0 +1,18 @@
+[
+    {
+    "model": "django_eb.quotes",
+    "pk": 1,
+    "fields": {
+        "quote_text":"I ought to be jealous of the tower she is more famous
+        than I am. Gustave Eiffel:
+        }
+    },
+    {
+    "model": "django_eb.quotes",                                                                                                    
+    "pk": 2,
+    "fields": {
+         "quote_text":"Architecture is the will of an epoch trasnslated into
+         space.
+         }
+     }
+]
